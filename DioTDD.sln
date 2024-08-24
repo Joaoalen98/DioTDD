@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioTDD.Console", "DioTDD.Console\DioTDD.Console.csproj", "{F748CECC-E5A5-4253-A40D-510B6B807786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioTDD.Tests", "DioTDD.Tests\DioTDD.Tests.csproj", "{FD80ED32-40C1-4763-A2DD-D680C5F82232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F748CECC-E5A5-4253-A40D-510B6B807786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F748CECC-E5A5-4253-A40D-510B6B807786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F748CECC-E5A5-4253-A40D-510B6B807786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F748CECC-E5A5-4253-A40D-510B6B807786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD80ED32-40C1-4763-A2DD-D680C5F82232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD80ED32-40C1-4763-A2DD-D680C5F82232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD80ED32-40C1-4763-A2DD-D680C5F82232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD80ED32-40C1-4763-A2DD-D680C5F82232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
